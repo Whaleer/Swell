@@ -1,0 +1,27 @@
+# macOS and editor files
+.DS_Store
+._*
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Local configuration and signing materials
+.local/
+.env
+.env.*
+*.p12
+*.p8
+*.key
+*.cer
+*.provisionprofile
+*.mobileprovision
+*.certSigningRequest
+
+# Build outputs and distribution archives
+.build/
+build/
+*.app/
+*.dmg
+*.pkg
+*.zip

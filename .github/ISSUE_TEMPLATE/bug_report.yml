@@ -1,0 +1,66 @@
+name: Bug report / 问题反馈
+description: Report a problem with Swell. / 反馈 Swell 使用问题。
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Swell. English and Chinese are welcome.
+        Issues and attachments are public. Remove private information, or email 1004707367@qq.com for private support.
+
+        欢迎使用中文或英文反馈。Issue 与附件均为公开内容，请移除私人信息；私人请求请发送至 1004707367@qq.com。
+  - type: input
+    id: app-version
+    attributes:
+      label: Swell version / 应用版本
+      description: Include the TestFlight build number if available. / 如可获取，请附上 TestFlight 构建号。
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version / 系统版本
+    validations:
+      required: true
+  - type: input
+    id: mac-model
+    attributes:
+      label: Mac model / Mac 型号
+      description: Include the chip model if known. / 如知道芯片型号，也请一并填写。
+    validations:
+      required: true
+  - type: dropdown
+    id: module
+    attributes:
+      label: Affected area / 涉及模块
+      options:
+        - Lumina
+        - Cinema
+        - Pixellery
+        - Startup or general / 启动或通用功能
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      description: Include the theme, settings, or media type involved. / 请说明涉及的主题、设置或媒体类型。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior / 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior / 实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional details / 补充信息
+      description: Optional screenshots, exact errors, and display setup. Remove private information. / 可附截图、完整报错或显示器配置，请移除私人信息。

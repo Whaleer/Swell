@@ -1,0 +1,30 @@
+name: Feature request / 功能建议
+description: Suggest an improvement to Swell. / 提出 Swell 改进建议。
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you would like to do and how Swell could help. English and Chinese are welcome.
+        This is public feedback; please keep private information out of the issue and attachments.
+
+        欢迎用中文或英文说明需求与使用场景。Issue 与附件为公开内容，请勿包含私人信息。
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do? / 你想完成什么？
+      description: Describe the use case or current difficulty. / 请说明使用场景或目前遇到的不便。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement / 改进建议
+      description: Describe the behavior you would find useful. / 请描述你希望的功能或使用体验。
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context / 补充说明
+      description: Optional examples, alternatives, or screenshots. / 可补充示例、其他方案或截图。
