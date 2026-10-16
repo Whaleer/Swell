@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   Swell: Art &amp; Clock&nbsp;
-  <img src="assets/app-icon.png" alt="Swell app icon" width="48" height="48" align="middle">
-</h1>
+  <img src="assets/app-icon.png" alt="Swell app icon" width="28" height="28" align="top">
+</h2>
 
 English · [简体中文](README.zh-CN.md)
 
