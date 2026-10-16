@@ -1,4 +1,7 @@
-# Swell: Art & Clock
+<h1 align="center">
+  Swell: Art &amp; Clock&nbsp;
+  <img src="assets/app-icon.png" alt="Swell 应用图标" width="48" height="48" align="middle">
+</h1>
 
 [English](README.md) · 简体中文
 
@@ -70,9 +73,8 @@ Clear Glass 在 macOS 26 及更新版本使用原生 Liquid Glass，在 macOS 15
 - [使用指南与常见问题](docs/support.zh-CN.md)
 - [隐私政策](docs/privacy.zh-CN.md)
 - [反馈问题或提出建议](https://github.com/Whaleer/Swell/issues)
-- 邮箱：[1004707367@qq.com](mailto:1004707367@qq.com)
 
-GitHub Issue 是公开的。包含私人信息的支持请求请通过邮件发送。
+GitHub Issue、评论和附件均为公开内容，提交前请移除私人信息。
 
 ## 关于这个仓库
 

@@ -1,4 +1,7 @@
-# Swell: Art & Clock
+<h1 align="center">
+  Swell: Art &amp; Clock&nbsp;
+  <img src="assets/app-icon.png" alt="Swell app icon" width="48" height="48" align="middle">
+</h1>
 
 English · [简体中文](README.zh-CN.md)
 
@@ -70,9 +73,8 @@ During full-screen playback, **Page Up** and **Page Down** switch to the previou
 - [User guide and troubleshooting](docs/support.en.md)
 - [Privacy policy](docs/privacy.en.md)
 - [Report a bug or suggest a feature](https://github.com/Whaleer/Swell/issues)
-- Email: [1004707367@qq.com](mailto:1004707367@qq.com)
 
-GitHub issues are public. Use email for support requests containing private information.
+GitHub issues, comments, and attachments are public. Please remove private information before posting.
 
 ## About this repository
 
