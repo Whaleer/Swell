@@ -31,9 +31,7 @@ Swell 将屏幕变成全屏画布：欣赏动态艺术、播放自己的视频�
 
 ### 放进你的桌面空间
 
-<img src="assets/frosted-dawn-desk.png" alt="以 Swell Frosted Dawn 主题为灵感的 AI 生成桌搭场景" width="480">
-
-*AI 生成场景示意。屏幕与硬件细节可能与实际应用及设备不同。*
+<img src="assets/swell-desk.jpg" alt="显示器上展示 Swell 的桌面布置" width="480">
 
 ## 三种全屏体验
 

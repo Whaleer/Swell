@@ -31,9 +31,7 @@ The three images above are actual app screenshots.
 
 ### In your space
 
-<img src="assets/frosted-dawn-desk.png" alt="AI-generated desk scene inspired by Swell's Frosted Dawn artwork" width="480">
-
-*AI-generated scene illustration. Screen and hardware details may differ from the app and real devices.*
+<img src="assets/swell-desk.jpg" alt="Desk setup with Swell on screen" width="480">
 
 ## Three ways to fill your screen
 
