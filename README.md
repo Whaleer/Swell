@@ -29,6 +29,12 @@ Install Apple's TestFlight app on your Mac, then open the invitation link to ins
 
 The three images above are actual app screenshots.
 
+### All 15 Lumina themes
+
+![Overview of Swell’s 15 built-in Lumina themes](assets/themes-overview.jpg)
+
+The themes are shown with the Clear Glass clock and sample weather, except Dot Progress, which retains its own calendar.
+
 ### In your space
 
 <img src="assets/swell-desk.jpg" alt="Desk setup with Swell on screen" width="480">

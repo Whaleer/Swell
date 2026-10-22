@@ -29,6 +29,12 @@ Swell 将屏幕变成全屏画布：欣赏动态艺术、播放自己的视频�
 
 以上三张图片均为应用真实截图。
 
+### Lumina 全部 15 个内置主题
+
+![Swell 的 15 个 Lumina 内置主题总览](assets/themes-overview.jpg)
+
+除保留自身年历的 Dot Progress 外，其余主题均搭配 Clear Glass 时钟与示例天气展示。
+
 ### 放进你的桌面空间
 
 <img src="assets/swell-desk.jpg" alt="显示器上展示 Swell 的桌面布置" width="480">
